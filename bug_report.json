@@ -1,1 +1,20 @@
+{
+"BugId":  46,
+"Title": "Widget icon becomes invisible after device reboot",
+"Severity": "Critical", 
+"Priority": "High", 
+"Environment": "Xiaomi Mi 9SE (MIUI Global 12.5.1) Android 11 RKQ1.200826.002"
+"Precondition": "install app"
+"STR": 
+  [
+    "Open app “AndroidGridTest”,
+    "Click on the “add widget” button",
+    "Press the Add Widget button several times",
+    "Make sure widget icons appear on blank screens",
+    "Reboot device"
+  ],
+"AR": "The widget icons have disappeared from the screen, but in fact they are there. Widget icon launches as AndroidGridTest app",
+"ER": "Widget icons are on the screen. You can work with widget icons",
+"Attachments": "https://drive.google.com/file/d/12OEQAVygdCO3I3nwCcLKtRa1UzuVyaXU/view?usp=sharing"
+} 
 
