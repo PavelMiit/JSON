@@ -5,8 +5,7 @@
 "Priority": "High", 
 "Environment": "Xiaomi Mi 9SE (MIUI Global 12.5.1) Android 11 RKQ1.200826.002"
 "Precondition": "install app"
-"STR": 
-  [
+"STR": [
     "Open app AndroidGridTest”,
     "Click on the “add widget” button",
     "Press the Add Widget button several times",
